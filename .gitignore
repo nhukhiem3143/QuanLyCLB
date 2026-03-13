@@ -5,9 +5,7 @@ node_modules/
 .pnp
 .pnp.js
 
-# ===========================
 #  ENVIRONMENT & SECRETS
-# ===========================
 .env
 .env.local
 .env.development
@@ -15,9 +13,8 @@ node_modules/
 .env.staging
 *.env
 
-# ===========================
 #  BUILD OUTPUT
-# ===========================
+
 dist/
 build/
 out/
